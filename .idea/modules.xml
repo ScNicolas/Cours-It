@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/crm/crm.iml" filepath="$PROJECT_DIR$/crm/crm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/integrationContinue.iml" filepath="$PROJECT_DIR$/integrationContinue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/crm/src/main/main.iml" filepath="$PROJECT_DIR$/crm/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/notation/src/main/main1.iml" filepath="$PROJECT_DIR$/notation/src/main/main1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/notation/notation.iml" filepath="$PROJECT_DIR$/notation/notation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/crm/src/test/test.iml" filepath="$PROJECT_DIR$/crm/src/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/notation/src/test/test1.iml" filepath="$PROJECT_DIR$/notation/src/test/test1.iml" />
+    </modules>
+  </component>
+</project>
